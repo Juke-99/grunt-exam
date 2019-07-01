@@ -1,0 +1,15 @@
+{
+  "name": "grunt-any",
+  "version": "1.0.0",
+  "description": "this repogitory is each javascript testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [],
+  "author": "Juke-99",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.4"
+  }
+}
